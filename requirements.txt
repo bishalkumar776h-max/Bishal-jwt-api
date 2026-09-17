@@ -1,6 +1,9 @@
-Flask
+aiohttp
 pycryptodome
+Flask
 requests
-protobuf
-PyJWT
-Flask-Caching
+protobuf==4.25.1
+
+
+
+
